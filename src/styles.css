@@ -142,7 +142,7 @@ button {
   .navMenu {
     width: 100%;
     position: absolute;
-    top: 4.375; 
+    top: 4.375rem; 
     left: -105%;
     gap: 0;
     flex-direction: column;
