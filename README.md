@@ -77,5 +77,5 @@ Distributed under the MIT License.
 ## Contact Information
 
 - **Tony Young** - [Email](dev@devify.dev)
-- **Project Link** - [globarove.com](https://www.infinity-ivy.com)
+- **Project Link** - [infinityivy.com](https://www.infinityivy.com)
 
